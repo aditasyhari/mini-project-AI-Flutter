@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../tic_tac_toe"
+		},
+		{
+			"path": "../../Project Python"
+		},
+		{
+			"path": "../../../../opt/lampp/htdocs/app-surat"
+		},
+		{
+			"path": "../../Project Laravel/stok_barang_laravel-main"
+		}
+	],
+	"settings": {}
+}
